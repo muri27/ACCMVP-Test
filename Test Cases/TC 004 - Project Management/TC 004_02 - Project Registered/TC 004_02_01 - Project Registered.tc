@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 004_02_01 - Project Registered</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9daf0feb-d360-4c56-8b78-bc64a6d13da9</testCaseGuid>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>7c7ac971-4276-4071-b9d2-65c24394b854</id>
+      <masked>false</masked>
+      <name>Role</name>
+   </variable>
+   <variable>
+      <defaultValue>'project'</defaultValue>
+      <description></description>
+      <id>e12eee89-b446-4736-9623-051ba2766952</id>
+      <masked>false</masked>
+      <name>ProjectName</name>
+   </variable>
+</TestCaseEntity>

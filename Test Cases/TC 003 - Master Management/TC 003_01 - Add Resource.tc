@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 003_01 - Add Resource</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e330ec05-12c9-45a8-9893-dc61e655c027</testCaseGuid>
+   <variable>
+      <defaultValue>'BE'</defaultValue>
+      <description></description>
+      <id>55f6b2a9-090b-47c4-8d91-c739bf1158ec</id>
+      <masked>false</masked>
+      <name>Role</name>
+   </variable>
+   <variable>
+      <defaultValue>'TOAD'</defaultValue>
+      <description></description>
+      <id>29a0c306-897c-434d-ad4a-997c65a7f797</id>
+      <masked>false</masked>
+      <name>ResourceName</name>
+   </variable>
+</TestCaseEntity>

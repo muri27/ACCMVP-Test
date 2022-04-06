@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 001 - Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2d59c0e9-f3f8-48bb-b405-9ba0fcadacce</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c242ce70-5b02-44a9-934c-c0ba118b36b6</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7e1f0508-eecc-4aed-9f7f-7afd127276c8</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Rifkii_Menu_DropDownArrow</name>
+   <tag></tag>
+   <elementGuidId>b990d965-c3ab-49f3-914e-a50ff01e0519</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#wt42_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt52_RichWidgets_wt9_block_wtMenuItem > span.Menu_DropDownArrow</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wt42_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt52_RichWidgets_wt9_block_wtMenuItem']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Menu_DropDownArrow</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wt42_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt52_RichWidgets_wt9_block_wtMenuItem&quot;)/span[@class=&quot;Menu_DropDownArrow&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wt42_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt52_RichWidgets_wt9_block_wtMenuItem']/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/span</value>
+   </webElementXpaths>
+</WebElementEntity>

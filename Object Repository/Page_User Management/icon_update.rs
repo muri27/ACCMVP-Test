@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon_update</name>
+   <tag></tag>
+   <elementGuidId>df8b6f02-3de4-47e0-a201-8e8a9713a546</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#wt64_OutSystemsUIWeb_wt4_block_wtContent_wtMainContent_wtTableRecords_ctl05_wt55 > span.fa.fa-fw.fa-pencil</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;wt52_OutSystemsUIWeb_wt4_block_wtContent_wtMainContent_wtTableRecords_ctl03_wt45&quot;)/span[@class=&quot;fa fa-fw fa-pencil&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='wt64_OutSystemsUIWeb_wt4_block_wtContent_wtMainContent_wtTableRecords_ctl05_wt55']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-fw fa-pencil</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wt64_OutSystemsUIWeb_wt4_block_wtContent_wtMainContent_wtTableRecords_ctl05_wt55&quot;)/span[@class=&quot;fa fa-fw fa-pencil&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='wt64_OutSystemsUIWeb_wt4_block_wtContent_wtMainContent_wtTableRecords_ctl05_wt55']/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[8]/a[2]/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='wt52_OutSystemsUIWeb_wt4_block_wtContent_wtMainContent_wtTableRecords_ctl04_wt45']/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[8]/a/span</value>
+   </webElementXpaths>
+</WebElementEntity>

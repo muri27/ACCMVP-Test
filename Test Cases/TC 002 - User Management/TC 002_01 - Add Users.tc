@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 002_01 - Add Users</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38b8138d-c1db-4338-884e-01e0725e5a1c</testCaseGuid>
+   <variable>
+      <defaultValue>'John Murtough'</defaultValue>
+      <description></description>
+      <id>1dcd02ca-542a-4a8a-b3f3-e2cfccaff611</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+   <variable>
+      <defaultValue>'23222208'</defaultValue>
+      <description></description>
+      <id>eefd1c0d-a693-43d8-83d6-abb274af1e07</id>
+      <masked>false</masked>
+      <name>NPK</name>
+   </variable>
+   <variable>
+      <defaultValue>'tesQC080@gmail.com'</defaultValue>
+      <description></description>
+      <id>35d20a2d-202d-4fce-b502-fc6b79ddd01b</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'1241231'</defaultValue>
+      <description></description>
+      <id>87d5afc0-870e-4eff-b423-d0c5f2b4462a</id>
+      <masked>false</masked>
+      <name>Phone</name>
+   </variable>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description></description>
+      <id>c04e75bd-40e5-41c8-a408-63355d731682</id>
+      <masked>false</masked>
+      <name>Role</name>
+   </variable>
+   <variable>
+      <defaultValue>'123'</defaultValue>
+      <description></description>
+      <id>ce56b751-6d1c-47ad-bf93-a2d316e537fb</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

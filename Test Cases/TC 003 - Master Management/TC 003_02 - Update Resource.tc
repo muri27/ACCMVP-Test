@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 003_02 - Update Resource</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>981b7a4b-be6a-40d5-b0b0-bd59742711b1</testCaseGuid>
+   <variable>
+      <defaultValue>'BE'</defaultValue>
+      <description></description>
+      <id>cb299eaa-32e8-48bf-a3e4-8141c952e324</id>
+      <masked>false</masked>
+      <name>Role</name>
+   </variable>
+   <variable>
+      <defaultValue>'TOAD'</defaultValue>
+      <description></description>
+      <id>794e440f-edcb-48fb-950b-05aaa80dfa57</id>
+      <masked>false</masked>
+      <name>ResourceName</name>
+   </variable>
+</TestCaseEntity>

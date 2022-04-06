@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 004_03_01 - Project Rejected</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>544a0f3f-693d-4a25-b0c9-6625d0bc69a2</testCaseGuid>
+   <variable>
+      <defaultValue>'SuperAdmin'</defaultValue>
+      <description></description>
+      <id>d1093109-70ab-4ca4-824d-d7a0e3b3c66f</id>
+      <masked>false</masked>
+      <name>Role</name>
+   </variable>
+   <variable>
+      <defaultValue>'project'</defaultValue>
+      <description></description>
+      <id>d8c205b5-2e2b-423f-bef8-8905bd044b7b</id>
+      <masked>false</masked>
+      <name>ProjectName</name>
+   </variable>
+</TestCaseEntity>

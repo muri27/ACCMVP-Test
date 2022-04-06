@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 004_01 - Incoming Project</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e517d2ad-294c-4fb5-8314-4d082cfaeead</testCaseGuid>
+   <variable>
+      <defaultValue>'rejected'</defaultValue>
+      <description></description>
+      <id>50dea109-3fc7-412e-a82b-5535954def92</id>
+      <masked>false</masked>
+      <name>Status</name>
+   </variable>
+   <variable>
+      <defaultValue>'project'</defaultValue>
+      <description></description>
+      <id>22bc0cd2-f0b7-414a-bfe3-b307cc3939ff</id>
+      <masked>false</masked>
+      <name>ProjectName</name>
+   </variable>
+</TestCaseEntity>

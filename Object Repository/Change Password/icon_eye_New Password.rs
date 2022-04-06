@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon_eye_New Password</name>
+   <tag></tag>
+   <elementGuidId>ee66894e-1cdd-4a2c-8b9d-cae3d2c9a3a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.fa.fa-fw.fa-eye-slash</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='wt17_OutSystemsUIWeb_wt4_block_wtContent_wtMainContent_OutSystemsUIWeb_wt40_block_wtIcon_wt71']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-fw fa-eye-slash</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wt17_OutSystemsUIWeb_wt4_block_wtContent_wtMainContent_OutSystemsUIWeb_wt40_block_wtIcon_wt71&quot;)/span[@class=&quot;fa fa-fw fa-eye-slash&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='wt17_OutSystemsUIWeb_wt4_block_wtContent_wtMainContent_OutSystemsUIWeb_wt40_block_wtIcon_wt71']/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/span/a/span</value>
+   </webElementXpaths>
+</WebElementEntity>
